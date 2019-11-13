@@ -8,7 +8,7 @@
 
 ### `npm run build`
 
-打包 react项目
+打包 react 项目
 
 ### `npm run start-electron-prod`
 
